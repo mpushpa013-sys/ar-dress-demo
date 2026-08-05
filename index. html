@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AR Dress Demo</title>
+</head>
+
+<body>
+
+<h1>AR Dress Demo</h1>
+
+<p>Tap below to open the 3D dress.</p>
+
+<a href="https://res.cloudinary.com/yvxgirqh/image/upload/v1785947109/men_regular_apparel_fit_sporty_t-shirt_jmzvmh.glb">
+Open 3D Dress
+</a>
+
+</body>
+</html>
